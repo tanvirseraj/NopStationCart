@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-19T22:01:19 BDT" name="Default suite" finished-at="2024-03-19T22:01:19 BDT" duration-ms="747">
+    <groups>
+    </groups>
+    <test started-at="2024-03-19T22:01:19 BDT" name="Default test" finished-at="2024-03-19T22:01:19 BDT" duration-ms="747">
+      <class name="com.mobile.bd.tests.ReadAcceptTest">
+        <test-method is-config="true" signature="openUrl()[pri:0, instance:com.mobile.bd.tests.ReadAcceptTest@1a245833]" started-at="2024-03-19T22:01:19 BDT" name="openUrl" finished-at="2024-03-19T22:01:19 BDT" duration-ms="278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method signature="testPlaceOrderMethod()[pri:0, instance:com.mobile.bd.tests.ReadAcceptTest@1a245833]" started-at="2024-03-19T22:01:19 BDT" name="testPlaceOrderMethod" finished-at="2024-03-19T22:01:19 BDT" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPlaceOrderMethod -->
+        <test-method is-config="true" signature="report()[pri:0, instance:com.mobile.bd.tests.ReadAcceptTest@1a245833]" started-at="2024-03-19T22:01:19 BDT" name="report" finished-at="2024-03-19T22:01:19 BDT" duration-ms="379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+      </class> <!-- com.mobile.bd.tests.ReadAcceptTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
